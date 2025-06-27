@@ -19,11 +19,11 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/lazycodebuilder/recovery_rmx1851'
+        default: 'https://github.com/oliplusmzr/recovery_device_samsung_a24'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
-        default: 'android-14_ofrp'
+        default: 'OFOX'
       BUILD_TARGET:
         description: 'Specify your Build Target'
         required: true
