@@ -116,7 +116,7 @@ jobs:
         cd android-recovery
         repo sync -j$(nproc --all) --force-sync
 
-        - name: Patch Reboot for Samsung OneUI 7
+    - name: Patch Reboot for Samsung OneUI 7
       run: |
        cd android-recovery
        curl -sL https://raw.githubusercontent.com/oliplusmzr/twrp-patch-files/main/patch-reboot.sh -o patch-reboot.sh
