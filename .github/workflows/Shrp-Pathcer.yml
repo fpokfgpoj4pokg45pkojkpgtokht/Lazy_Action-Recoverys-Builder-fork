@@ -113,7 +113,7 @@ jobs:
 
 
    - name: Patch Reboot for Samsung OneUI 7
-      run: |
+     run: |
        cd android-recovery
        curl -sL https://raw.githubusercontent.com/oliplusmzr/twrp-patch-files/main/patch-reboot.sh -o patch-reboot.sh
        chmod +x patch-reboot.sh
