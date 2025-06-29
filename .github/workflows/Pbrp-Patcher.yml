@@ -1,4 +1,4 @@
-name: PitchBlack [PBRP] Patcher
+name: PitchBlack [PBRP] Patch
 
 on:
   workflow_dispatch:
