@@ -1,4 +1,4 @@
-name: TeamWin [TWRP] Patch tEst
+name: TeamWin [TWRP] Patch
 
 on:
   workflow_dispatch:
