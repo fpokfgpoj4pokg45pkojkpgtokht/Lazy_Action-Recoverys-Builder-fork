@@ -1,4 +1,4 @@
-name: SkyHawk [SHRP] Pathcer
+name: SkyHawk [SHRP] Path
 
 on:
   workflow_dispatch:
